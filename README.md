@@ -1,5 +1,5 @@
 # Bellabeat Case Study
-This project is my case study for the [Google Data Analytics Professional Certificate](www.google.com). 
+This project is my case study for the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). 
 
 We analyzed data collected from 33 Fitbit users. We used the insights from this dataset to give recommendations to Bellabeat, a fitness company 
 focused on creating smart products for women.
